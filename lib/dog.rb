@@ -10,6 +10,6 @@ end
 
 class Dog 
   def bark 
-    p = "woof!"
+    puts = "woof!"
   end
 end
