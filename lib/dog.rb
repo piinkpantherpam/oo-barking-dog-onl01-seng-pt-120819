@@ -9,4 +9,4 @@ def name
 end
 
 class Dog 
-  
+  def bark = "woof!"
