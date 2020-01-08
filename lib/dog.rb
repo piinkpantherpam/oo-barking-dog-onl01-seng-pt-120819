@@ -4,5 +4,3 @@ class Dog
   end
   
 dog_name.name
-
-
