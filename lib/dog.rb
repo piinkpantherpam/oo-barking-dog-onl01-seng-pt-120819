@@ -9,4 +9,5 @@ def name
 end
 
 class Dog 
-  def bark = "woof!"
+  def bark 
+    puts = "woof!"
