@@ -5,7 +5,4 @@ class Dog
   
 dog_name.name
 
-dog_name.bark
-woof!
-  end
-end
+
